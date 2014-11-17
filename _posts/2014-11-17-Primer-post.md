@@ -43,6 +43,7 @@ y el resultado es el siguiente:
 
 <iframe width="640" height="394" src="http://www.youtube.com/embed/kQPWy8N0mBg?hd=1&amp;rel=0" frameborder="0" allowfullscreen></iframe>
 
+Observese que tanto para el video de Vimeo como el de Youtube, se permite la pantalla completa.
 
 Para descargar un pdf, lo primero que se hizo fue crear localmente una carpeta llamada _pdf en el directorio del sitio, luego [se subio a github](https://github.com/franchescomora/blogDePrueba7/tree/gh-pages/_pdf) y se creo el enlace para la descarga a través de la siguiente línea:
 
